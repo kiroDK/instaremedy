@@ -1,0 +1,2 @@
+# instaremedy
+Instaremedy website code
